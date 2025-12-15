@@ -7,5 +7,5 @@ An accelerometer detects accidents or abnormal tilt and instantly stops the moto
 In emergencies, the system sends an automatic SMS with live GPS location and provides a web-based live camera dashboard.
 
 ## 🎥 Project Video
-
+Click the Image
 [![AI Bike Accident Avoidance System](https://thumbs.dreamstime.com/b/avoid-driving-accidents-drive-right-follow-traffic-signs-any-will-happen-117278499.jpg)](https://www.facebook.com/share/v/1ZnYveqSd3/)
