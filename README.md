@@ -8,4 +8,4 @@ In emergencies, the system sends an automatic SMS with live GPS location and pro
 
 ## 🎥 Project Demo
 
-[![AI Bike Accident Avoidance System](https://www.dreamstime.com/avoid-driving-accidents-drive-right-follow-traffic-signs-any-will-happen-image117278499)](https://www.facebook.com/share/v/1ZnYveqSd3/)
+[![AI Bike Accident Avoidance System](https://thumbs.dreamstime.com/b/avoid-driving-accidents-drive-right-follow-traffic-signs-any-will-happen-117278499.jpg)](https://www.facebook.com/share/v/1ZnYveqSd3/)
